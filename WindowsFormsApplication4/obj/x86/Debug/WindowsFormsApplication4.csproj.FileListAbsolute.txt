@@ -1,0 +1,35 @@
+C:\Users\kishan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kishan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+C:\Users\kishan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\kishan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kishan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\kishan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Lan-Talk.exe
+C:\Users\kishan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\Lan-Talk.pdb
+C:\Users\kishan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Lan-Talk.exe
+C:\Users\kishan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Lan-Talk.pdb
+C:\Users\kishan\Documents\Visual Studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\iptb.dll
+D:\My works\Lan-Talk\WindowsFormsApplication4\obj\x86\Debug\Lan-Talk.exe
+D:\My works\Lan-Talk\WindowsFormsApplication4\obj\x86\Debug\Lan-Talk.pdb
+D:\My works\Lan-Talk\WindowsFormsApplication4\bin\Debug\Lan-Talk.exe
+D:\My works\Lan-Talk\WindowsFormsApplication4\bin\Debug\Lan-Talk.pdb
+D:\My works\Lan-Talk\WindowsFormsApplication4\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My works\Lan-Talk\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form1.resources
+D:\My works\Lan-Talk\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+D:\My works\Lan-Talk\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\My works\Lan-Talk\WindowsFormsApplication4\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\My works\Lan-Talk\WindowsFormsApplication4\obj\x86\Debug\Lan-Talk.exe
+E:\My works\Lan-Talk\WindowsFormsApplication4\obj\x86\Debug\Lan-Talk.pdb
+E:\My works\Lan-Talk\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+E:\My works\Lan-Talk\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+E:\My works\Lan-Talk\WindowsFormsApplication4\obj\x86\Debug\KishanKotadiya.Properties.Resources.resources
+E:\My works\Lan-Talk\WindowsFormsApplication4\bin\Debug\Lan-Talk.exe
+E:\My works\Lan-Talk\WindowsFormsApplication4\bin\Debug\Lan-Talk.pdb
+E:\My works\Lan-Talk\WindowsFormsApplication4\obj\x86\Debug\KishanKotadiya.Form1.resources
+D:\My works\Lan-Talk (my UI)\WindowsFormsApplication4\obj\x86\Debug\Lan-Talk.exe
+D:\My works\Lan-Talk (my UI)\WindowsFormsApplication4\obj\x86\Debug\Lan-Talk.pdb
+D:\My works\Lan-Talk (my UI)\WindowsFormsApplication4\bin\Debug\Lan-Talk.exe
+D:\My works\Lan-Talk (my UI)\WindowsFormsApplication4\bin\Debug\Lan-Talk.pdb
+D:\My works\Lan-Talk (my UI)\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+D:\My works\Lan-Talk (my UI)\WindowsFormsApplication4\obj\x86\Debug\KishanKotadiya.Form1.resources
+D:\My works\Lan-Talk (my UI)\WindowsFormsApplication4\obj\x86\Debug\KishanKotadiya.Properties.Resources.resources
+D:\My works\Lan-Talk (my UI)\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache

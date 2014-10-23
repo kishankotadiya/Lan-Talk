@@ -1,0 +1,7 @@
+E:\My works\Lan-Talk\WindowsFormsApplication4\bin\Debug\Lan-Talk.exe
+E:\My works\Lan-Talk\WindowsFormsApplication4\obj\x86\Debug\KishanKotadiya.csprojResolveAssemblyReference.cache
+E:\My works\Lan-Talk\WindowsFormsApplication4\obj\x86\Debug\KishanKotadiya.Form1.resources
+E:\My works\Lan-Talk\WindowsFormsApplication4\obj\x86\Debug\KishanKotadiya.Properties.Resources.resources
+E:\My works\Lan-Talk\WindowsFormsApplication4\obj\x86\Debug\KishanKotadiya.csproj.GenerateResource.Cache
+E:\My works\Lan-Talk\WindowsFormsApplication4\obj\x86\Debug\Lan-Talk.exe
+E:\My works\Lan-Talk\WindowsFormsApplication4\obj\x86\Debug\Lan-Talk.pdb
